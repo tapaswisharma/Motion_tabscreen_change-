@@ -12,6 +12,7 @@ Breadboard and jumper wires
 
  ### //TRANSMITTER CIRCUIT :
 
+![transmitter png](https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/8ed56d79-8ccd-4eef-8839-3c3c766e5a30)
 
 ### //RECEIVER CIRCUIT:
 ![receiver png](https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/34c05cd8-ebac-46cb-bcc6-ffd12f62f64c)
