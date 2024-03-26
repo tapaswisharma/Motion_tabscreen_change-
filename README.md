@@ -18,14 +18,12 @@ Breadboard and jumper wires
 ![receiver png](https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/34c05cd8-ebac-46cb-bcc6-ffd12f62f64c)
 
 
-
-
-
-
+## Installation :
 Install Libraries: Download and install the NRF24 library by maniac-bug into your Arduino IDE. Refer to the library's documentation for specific installation instructions.
 Arduino IDE (https://www.arduino.cc/en/software)
 NRF24 library (https://github.com/nRF24) by maniacbug (https://github.com/maniacbug)
 AutoHotkey : https://www.autohotkey.com/
+
 
 
 
