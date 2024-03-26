@@ -10,8 +10,11 @@ Breadboard and jumper wires
 2x 9V batteries with battery connectors
 (Optional) Resistors (10kΩ for NRF24L01 CE and CSN pins)
 
- ## //TRANSMITTER CIRCUIT :
+ ### //TRANSMITTER CIRCUIT :
 
+
+### //RECEIVER CIRCUIT:
+![receiver png](https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/34c05cd8-ebac-46cb-bcc6-ffd12f62f64c)
 
 
 
