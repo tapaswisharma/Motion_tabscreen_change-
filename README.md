@@ -18,7 +18,7 @@ working process is similar to the 1st model
 2. Download AutoHotkey add the given command and save it with.ahk file
 3. Upload the transmitter code in Arduino IDE connect it to the PC and upload it to the Transmitter ARDUINO (after uploading remove the PC connection)
 4. Now open VS code and save the javascript file and python file (//use js file for single Arduino Model // use python file for double Arduino model)
-5. Upload the receiver code in Arduino IDE connect it to the PC and upload the code into the Receiver Arduino (//keep the receiver arduino connected to the Pc)
+5. Upload the receiver code in Arduino IDE connect it to the PC and upload the code into the Receiver Arduino (//keep the receiver arduino connected to the PC)
 6. Now whenever motion is detected it will fetch the AutoHoteky command and change the screen tab
    
   
@@ -26,10 +26,10 @@ working process is similar to the 1st model
 
  ### //TRANSMITTER CIRCUIT :
 
-<img src ="https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/8ed56d79-8ccd-4eef-8839-3c3c766e5a30.type" width= "700" height="700">
+<img src ="https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/8ed56d79-8ccd-4eef-8839-3c3c766e5a30.type" width= "500" height="500">
 
 ### //RECEIVER CIRCUIT:
-<img src ="https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/34c05cd8-ebac-46cb-bcc6-ffd12f62f64c.type" width= "700" height="700">
+<img src ="https://github.com/tapaswisharma/Motion_tabscreen_change-/assets/130048461/34c05cd8-ebac-46cb-bcc6-ffd12f62f64c.type" width= "500" height="500">
 
 
 ## Hardware Components:
